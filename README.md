@@ -34,6 +34,8 @@ tax rate
 tax rate
 ​
  .
+ ![1020 (1)](https://github.com/user-attachments/assets/17ff61bd-599f-49fe-97e8-08361b2b8aab)
+
 User Interaction:
 
 The system uses an interactive console menu that allows users to enter data intuitively.
@@ -49,4 +51,5 @@ Java: The primary programming language used for the system's implementation.
 Object-Oriented Programming: The use of classes and interfaces to structure the system logic in a modular and reusable way.
 Conclusion
 This project provides a practical tool for businesses to calculate their taxes, facilitating tax management. The system can be expanded in the future to include other types of taxes and additional functionalities, such as detailed reports and integration with accounting systems. With a simple and effective interface, the system meets the needs of small and medium-sized entrepreneurs seeking to simplify the tax calculation process.
+
 
